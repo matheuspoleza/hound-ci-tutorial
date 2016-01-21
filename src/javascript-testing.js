@@ -1,5 +1,5 @@
 var noOneIsUsingMe;
 
-function(){
+function eqnullErrorTesting(){
   errorEqnull = 1 == 2;
 }
